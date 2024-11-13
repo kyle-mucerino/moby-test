@@ -1,0 +1,115 @@
+.moby-max-subheader {
+  background: #86868B;
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  /* Make the text transparent so gradient shows through */
+  color: transparent; 
+}
+
+.max-cta .learn-more {
+  width: 330.75px;
+  font-size: 45.31px;
+  padding: 15.86px 33.98px 15.86px 33.98px;
+  border-radius: 157.4px;
+  @media (max-width: 640px) {
+    width: 146px;
+    font-size: 20px;
+    padding: 7px 15px 7px 15px;
+    border-radius: 69.48px;
+  }
+}
+
+
+.max-cta .book {
+  width: 208.42px;
+  font-size: 45.31px;
+  padding: 15.86px 33.98px 15.86px 33.98px;
+  border-radius: 157.4px;
+    @media (max-width: 640px) {
+    width: 92px;
+    font-size: 20px;
+    padding: 7px 15px 7px 15px;
+    border-radius: 69.48px;
+  }
+}
+
+.moby-max {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-image: url('../../assets/eggplant.jpg');
+  background-size: cover;
+  background-position: center;
+
+  @media (max-width: 800px) {
+    background-image: url('../../assets/eggplant-mobile.png')
+  }
+}
+
+.max {
+  background: radial-gradient(134.27% 164.5% at -17.57% 100%, #C6CCCF 40%, #EDF1F1 58.5%, #EBF2F4 100%);
+}
+
+.moby-max-header {
+  background: linear-gradient(to bottom, #003261 40%, #0087FF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.moby-max-subheader-1 {
+  position: absolute;
+  width: 367px;
+  height: 252px;
+  top: 55px;
+  left: 162px;
+  font-size: 64px;
+  line-height: 84px;
+  
+  @media (max-width: 800px) {
+    width: 282px;
+    height: 252px;
+    top: 155px;
+    left: 22px;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: left;
+  }
+}
+
+.moby-max-subheader-1 span {
+  background: linear-gradient(191.87deg, #003261 13.27%, #00519B 16.21%, #0058A8 19.89%, #0087FF 23.71%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-style: italic;
+}
+
+.moby-max-subheader-2 span {
+  background: linear-gradient(191.87deg, #003261 13.27%, #00519B 16.21%, #0058A8 19.89%, #0087FF 23.71%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-style: italic;
+}
+
+.moby-max-subheader-2 {
+  position: absolute;
+  width: 282px;
+  height: 252px;
+  top: 350px;
+  left: 996px;
+  font-size: 64px;
+  line-height: 84px;
+    
+  @media (max-width: 800px) {
+    width: 282px;
+    height: 252px;
+    top: 605px;
+    left: 22px;
+    font-size: 36px;
+    line-height: 40px;
+    text-align: left;
+  }
+}

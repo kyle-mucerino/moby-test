@@ -1,0 +1,67 @@
+.synergy-header {
+  background: linear-gradient(191.87deg, #003261 30.93%, #0087FF 91.63%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent;
+  font-weight: 600;
+}
+
+.syngery-subheader-1 {
+  font-weight: 600;
+  background: linear-gradient(191.87deg, #003261 30.93%, #0087FF 91.63%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent;
+}
+
+span-2 {
+  background: linear-gradient(191.87deg, #003261 30.93%, #0087FF 91.63%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent;
+}
+
+.more-cta .learn-more {
+  width: 330.75px;
+  font-size: 45.31px;
+  padding: 15.86px 33.98px 15.86px 33.98px;
+  border-radius: 157.4px;
+  @media (max-width: 640px) {
+    width: 146px;
+    font-size: 20px;
+    padding: 7px 15px 7px 15px;
+    border-radius: 69.48px;
+  }
+}
+
+.more-cta .book {
+  width: 208.42px;
+  font-size: 45.31px;
+  padding: 15.86px 33.98px 15.86px 33.98px;
+  border-radius: 157.4px;
+    @media (max-width: 640px) {
+    width: 92px;
+    font-size: 20px;
+    padding: 7px 15px 7px 15px;
+    border-radius: 69.48px;
+  }
+}
+
+.synergy-subheader-2 {
+  font-weight: 600;
+      /* Apply gradient background */
+    /* Apply gradient background */
+  background: #86868B;
+  
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  /* Make the text transparent so gradient shows through */
+  color: transparent; 
+}
