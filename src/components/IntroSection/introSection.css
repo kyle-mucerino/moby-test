@@ -4,8 +4,35 @@
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
+
+  @media (max-width: 800px) {
+    background-image: url('../../assets/pphill.png')
+  }
 }
 
 .intro-section .desktop {
   color: #86868B;
+}
+
+/* Intro Paragraph Container */
+
+/* Paragraph Text */
+.intro-paragraph .paragraph {
+  color: #86868B;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.intro-paragraph .paragraph span {
+  color: black;
+}
+
+.button-container button {
+  padding: 16.72px 46.01px 17.6px 46.01px;
+  border-radius: 118.06px;
+
+  @media (max-width: 800px) {
+    padding: 9.84px 27.08 10.36px 27.08px;
+    border-radius: 69.48px;
+  }
 }

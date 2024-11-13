@@ -1,0 +1,211 @@
+/* Moby Shot Section */
+.moby-shot {
+  height: fit-content;
+}
+
+/* Frame 114 */
+.frame-114 {
+  height: 1583.29px;
+}
+
+.header-group {
+  height: 374.21px;
+}
+
+/* Header Group */
+.header-group .header-gradient {
+  line-height: 163.11px;
+}
+
+.header-gradient {
+  /* Apply gradient background */
+  background: linear-gradient(191.87deg, #003261 30.93%, #0087FF 91.63%);
+  
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent;
+}
+
+.grid-1 p {
+  top: 2140.83px;
+  left: 68.16px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 32px;
+  line-height: 43.64px;
+  font-weight: 600;
+    /* Apply gradient background */
+  background: #86868B;
+  
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent;
+}
+
+.grid-1 img {
+  width: 124.56px;
+  height: 126.66px;
+}
+
+.grid-2 p {
+  width: 232.54px;
+  height: 85.13px;
+  top: 2140.83px;
+  left: 68.16px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 43.64px;
+    /* Apply gradient background */
+    /* Apply gradient background */
+  background: #86868B;
+  
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent; 
+}
+
+.grid-2 img {
+  width: 124.56px;
+  height: 126.66px;
+}
+
+.grid-3 p {
+  width: 232.54px;
+  height: 85.13px;
+  top: 2140.83px;
+  left: 68.16px;
+  font-weight: 600;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 32px;
+  line-height: 43.64px;
+    /* Apply gradient background */
+    /* Apply gradient background */
+  background: #86868B;
+  
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent; 
+}
+
+.grid-3 img {
+  width: 124.56px;
+  height: 126.66px;
+}
+
+.grid-4 p {
+  width: 232.54px;
+  height: 85.13px;
+  top: 2140.83px;
+  left: 68.16px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 43.64px;
+    /* Apply gradient background */
+    /* Apply gradient background */
+  background: #86868B;
+  
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent; 
+}
+
+.grid-4 img {
+  width: 124.56px;
+  height: 126.66px;
+}
+
+.grid-5 p {
+  font-size: 32px;
+  line-height: 43.64px;
+  font-weight: 600;
+    /* Apply gradient background */
+    /* Apply gradient background */
+  background: #86868B;
+  
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  /* Make the text transparent so gradient shows through */
+  color: transparent; 
+}
+
+.grid-5 img {
+  color:black
+}
+
+.grid-6 p {
+  top: 2140.83px;
+  left: 68.16px;
+  font-size: 32px;
+  line-height: 43.64px;
+  font-weight: 600;
+    /* Apply gradient background */
+    /* Apply gradient background */
+  background: #86868B;
+  
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent; 
+}
+
+.grid-6 img {
+  width: 124.56px;
+  height: 126.66px;
+}
+
+.benefits-bottom-cta {
+  width: 1113px;
+  height: 406px;
+}
+
+.benefits-bottom-cta .benefits-bottom {
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 72px;
+  color: #86868B;
+}
+
+span {
+  color: black;
+}
+
+.benefits-cta .learn-more {
+  width: 330.75px;
+  font-size: 45.31px;
+  padding: 15.86px 33.98px 15.86px 33.98px;
+  border-radius: 157.4px;
+}
+
+.benefits-cta .book {
+  width: 208.42px;
+  font-size: 45.31px;
+  padding: 15.86px 33.98px 15.86px 33.98px;
+  border-radius: 157.4px;
+}
+
+.benefits-cta {
+  margin-top: 92px;
+}
