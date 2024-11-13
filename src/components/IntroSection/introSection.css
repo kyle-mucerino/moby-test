@@ -1,0 +1,11 @@
+.intro-section {
+  background-image: url('../../assets/intro-section.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.intro-section .desktop {
+  color: #86868B;
+}
