@@ -1,0 +1,33 @@
+.moby-women h1 {
+  font-weight: 600;
+  background: linear-gradient(180.87deg, #003261 50.93%, #FFDEFE 95.63%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent;
+}
+
+.moby-women p {
+  font-weight: 600;
+  background: linear-gradient(180.87deg, #003261 89.93%, #FFDEFE 91.63%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent;
+}
+
+.women-cta .learn-more-women {
+  width: 463.14px;
+  font-size: 45.31px;
+  padding: 15.86px 33.98px 15.86px 33.98px;
+  border-radius: 157.4px;
+
+  @media (max-width: 640px) {
+    width: 224.44px;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 39.89px;
+  }
+}
