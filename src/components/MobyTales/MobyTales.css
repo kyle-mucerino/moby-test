@@ -1,0 +1,25 @@
+.tales h1 {
+  background: linear-gradient(191.87deg, #003261 29.85%, #00519B 51.66%, #0058A8 80.02%, #0087FF 95.54%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  
+  /* Make the text transparent so gradient shows through */
+  color: transparent;
+}
+
+.tales button {
+  width: 709.38px;
+  height: 116.38px;
+  padding: 38.55px 34.91px 38.55px 46.55px;
+  gap: 29.09px;
+  border-radius: 26.19px;
+  background-color: #1E1E1E;
+
+  @media (max-width: 640px) {
+    width: 251.4px;
+    height: 41.1px;
+    padding: 13.61px 12.33px 13.61px 16.44px;
+    gap: 10.27px;
+    border-radius: 9.25px;
+  }
+}
