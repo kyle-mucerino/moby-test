@@ -1,0 +1,31 @@
+.optimize h1 {
+  background: radial-gradient(105.42% 236.7% at 26.07% 15.41%, #003261 8.37%, #005AAC 45.55%, #0087FF 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+  -webkit-background-clip: text;
+  background-clip: text;  
+  color: transparent;
+}
+
+.optimize p {
+    background: #86868B;
+  
+  /* Clip the gradient to the text */
+  -webkit-background-clip: text;
+  background-clip: text;
+  /* Make the text transparent so gradient shows through */
+  color: transparent; 
+}
+
+.optimize button {
+  width: 512.31px;
+  height: 143.98px;
+  padding: 33.48px 53.57px 33.48px 53.57px;
+  border-radius: 232.66px;
+  font-weight: 600;
+
+  @media (max-width: 640px) {
+    width: 153px;
+    height: 43px;
+    padding: 10px 16px 10px 16px;
+    border-radius: 69.48px;
+  }
+}

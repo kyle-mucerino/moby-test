@@ -3,6 +3,7 @@ import Home from "./components/Home/Home";
 import IntroSection from "./components/IntroSection/IntroSection";
 import LegalDisclaimer from "./components/LegalDisclaimer";
 import MobyMax from "./components/MobyMax/MobyMax";
+import MobyOptimize from "./components/MobyOptimize/MobyOptimize";
 import MobyShotSection from "./components/MobyShot/MobyShotSection";
 import MobyTales from "./components/MobyTales/MobyTales";
 import MobyWave from "./components/MobyWave/MobyWave";
@@ -21,6 +22,7 @@ function App() {
       <MobyMax />
       <MobyWomen />
       <MobyTales />
+      <MobyOptimize />
     </div>
   );
 }
