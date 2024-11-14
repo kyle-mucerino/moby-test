@@ -13,29 +13,31 @@ import growth from "../../assets/growth.png";
 
 const MobyWave = () => (
   <>
-    <div className="moby-wave max-h-screen">
+    <div className="moby-wave max-h-screen my-[1.5rem]">
       <div className="flex flex-col text-left sm:items-center sm:text-center justify-between h-full p-4">
         {/* h1 at the start of the section */}
-        <h1 className="text-7xl sm:text-[172px] inter-semibold">Moby™ Wave</h1>
+        <h1 className="text-7xl sm:text-[10.75rem] inter-semibold">
+          Moby™ Wave
+        </h1>
 
         {/* Spacer div to push h2 to the bottom */}
         <div className="flex-grow"></div>
 
         {/* Mobile text */}
-        <h2 className="text-[36px] sm:text-[64px] inter-semibold lg:hidden mobile mt-auto">
+        <h2 className="text-[2.25rem] sm:text-[4rem] inter-semibold lg:hidden mobile mt-auto">
           Next Gen Shockwave Therapy for More Intense Intimacy.
         </h2>
 
         {/* Desktop text */}
-        <h2 className="text-[36px] sm:text-[64px] inter-semibold hidden lg:block desktop mt-auto sm:w-[1083px]">
+        <h2 className="text-[2.25rem] sm:text-[4rem] inter-semibold hidden lg:block desktop mt-auto sm:w-[67.688rem]">
           Next Gen Shockwave Therapy for More Intense Intimacy.
         </h2>
       </div>
     </div>
     {/* Benefits Grid would go here */}
-    <div className="benefits max-[400px]:p-4 sm:mx-[156.44px] sm:my-[164px]">
+    <div className="benefits max-[400px]:p-4 sm:mx-[9.778rem] sm:my-[10.25rem]">
       {/* Benefits Subheader */}
-      <h3 className="benefits-subheader text-left text-[24px] sm:text-[48px] sm:mb-[92px] inter-semibold">
+      <h3 className="benefits-subheader text-left text-[1.5rem] sm:text-[3rem] sm:mb-[5.75rem] inter-semibold">
         Moby Wave helps you:
       </h3>
 
@@ -111,7 +113,7 @@ const MobyWave = () => (
       {/* Grid Item 1 */}
       <div className="mobile-grid-item bg-gray-200 flex flex-col items-center justify-center shadow-md p-4">
         <img src={growth} alt="Benefit 1" className="benefit-img mb-2" />
-        <p className="text-center inter-semibold  text-[16px]">
+        <p className="text-center inter-semibold  text-[1rem]">
           Release growth factors
         </p>
       </div>
@@ -122,7 +124,7 @@ const MobyWave = () => (
           alt="Faucet with water flowing"
           className="benefit-img mb-2"
         />
-        <p className="text-center inter-semibold  text-[16px]">
+        <p className="text-center inter-semibold  text-[1rem]">
           Repairs aged blood vessels
         </p>
       </div>
@@ -132,7 +134,7 @@ const MobyWave = () => (
           alt="Faucet with water flowing"
           className="benefit-img mb-2"
         />
-        <p className="text-center inter-semibold  text-[16px]">
+        <p className="text-center inter-semibold  text-[1rem]">
           Grow new blood vessels
         </p>
       </div>
@@ -142,7 +144,7 @@ const MobyWave = () => (
           alt="Faucet with water flowing"
           className="benefit-img mb-2"
         />
-        <p className="text-center inter-semibold  text-[16px]">
+        <p className="text-center inter-semibold  text-[1rem]">
           Increase blood flow
         </p>
       </div>
@@ -153,7 +155,7 @@ const MobyWave = () => (
           alt="Faucet with water flowing"
           className="benefit-img mb-2"
         />
-        <p className="text-center inter-semibold text-[16px]">
+        <p className="text-center inter-semibold text-[1rem]">
           Get harder erections
         </p>
       </div>
@@ -163,7 +165,7 @@ const MobyWave = () => (
           alt="Faucet with water flowing"
           className="benefit-img mb-2"
         />
-        <p className="text-center inter-semibold text-[16px]">
+        <p className="text-center inter-semibold text-[1rem]">
           Regenerative nerve tissues
         </p>
       </div>
@@ -172,7 +174,7 @@ const MobyWave = () => (
         <img src={contractingArrows} alt="Expanding arrows" className="p-2" />
 
         {/* Overlay Text */}
-        <p className="absolute text-center inter-semibold text-[16px] p-2">
+        <p className="absolute text-center inter-semibold text-[1rem] p-2">
           Reduce<br></br> scar tissue associated with Peyronie's <br></br>{" "}
           Disease
         </p>
@@ -183,22 +185,22 @@ const MobyWave = () => (
           alt="Faucet with water flowing"
           className="benefit-img mb-2"
         />
-        <p className="text-center inter-semibold text-[16px]">
+        <p className="text-center inter-semibold text-[1rem]">
           Decrease penile curvature and pain (Peyroine's)
         </p>
       </div>
     </div>
-    <div className="wave-grid-bottom sm:mt-[164px] sm:mb-[92px] w-[326px] sm:w-[1055px] inter-semibold text-[20px] sm:text-[48px] text-left p-4 max-[400px]:p-4 sm:mx-[156.44px] sm:my-[164px]">
+    <div className="wave-grid-bottom sm:mt-[10.25rem] sm:mb-[5.75rem] w-[20.375rem] sm:w-[65.938rem] inter-semibold text-[1.25rem] sm:text-[3rem] text-left p-4 max-[400px]:p-4 sm:mx-[9.778rem] sm:my-[10.25rem]">
       Each Moby Wave™ procedure lasts about
       <span> 10-20 minutes</span> and
       <span> at least six procedures </span>
       are typically recommended.
     </div>
-    <div className="wave-cta flex flex-row max-[400px]:p-4 sm:mx-[156.44px] sm:my-[164px]">
+    <div className="wave-cta flex flex-row max-[400px]:p-4 sm:mx-[9.778rem] sm:my-[10.25rem]">
       <button className="bg-sierra-blue rounded-full text-white learn-more">
         Learn More
       </button>
-      <button className="text-sierra-blue border-2 border-blue-600 rounded-full ml-[36.25px] p-4 book">
+      <button className="text-sierra-blue border-2 border-blue-600 rounded-full ml-[2.266rem] p-4 book">
         Book
       </button>
     </div>

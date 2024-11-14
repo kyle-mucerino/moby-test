@@ -6,7 +6,7 @@
 }
 
 .optimize p {
-    background: #86868B;
+  background: #86868B;
   
   /* Clip the gradient to the text */
   -webkit-background-clip: text;
@@ -16,16 +16,16 @@
 }
 
 .optimize button {
-  width: 512.31px;
-  height: 143.98px;
-  padding: 33.48px 53.57px 33.48px 53.57px;
-  border-radius: 232.66px;
+  width: 32.02rem;
+  height: 9rem;
+  padding: 2.09rem 3.35rem;
+  border-radius: 14.54rem;
   font-weight: 600;
 
   @media (max-width: 640px) {
-    width: 153px;
-    height: 43px;
-    padding: 10px 16px 10px 16px;
-    border-radius: 69.48px;
+    width: 9.56rem;
+    height: 2.69rem;
+    padding: 0.625rem 1rem;
+    border-radius: 4.34rem;
   }
 }

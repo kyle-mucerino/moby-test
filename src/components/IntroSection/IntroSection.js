@@ -4,9 +4,9 @@ import '../../components/IntroSection/introSection.css';
 const IntroSection = () => (
   <>
     <div className="intro-section">
-      <div className="flex flex-col lg:flex-row text-center lg:text-left sm:text-black sm:space-x-32 sm:ml-[154px] sm:mr-[161.1px] text-white max-[800px]:space-y-64">
+      <div className="flex flex-col lg:flex-row text-center lg:text-left sm:text-black sm:space-x-32 sm:ml-[9.625rem] sm:mr-[10.069rem] text-white max-[800px]:space-y-64">
         {/* h1 at the start of the section */}
-        <h1 className="text-7xl sm:text-[172px] inter-semibold uppercase lg:ml-4 mt-12">
+        <h1 className="text-7xl sm:text-[10.75rem] inter-semibold uppercase lg:ml-4 mt-12">
           Moby™
         </h1>
 
@@ -14,18 +14,18 @@ const IntroSection = () => (
         <div className="flex-grow lg:hidden"></div>
 
         {/* Mobile text */}
-        <h2 className="text-[20px] sm:text-[172px] inter-semibold lg:hidden mobile">
+        <h2 className="text-[1.25rem] sm:text-[10.75rem] inter-semibold lg:hidden mobile">
           Non-surgical medical services for enhanced sexual health
         </h2>
 
         {/* Desktop text */}
-        <h2 className="text-[20px] sm:text-[36px] inter-semibold hidden lg:block lg:mr-4 desktop w-[390px] sm:mt-12">
+        <h2 className="text-[1.25rem] sm:text-[2.25rem] inter-semibold hidden lg:block lg:mr-4 desktop w-[24.375rem] sm:mt-12">
           Non-surgical medical services for enhanced sexual health
         </h2>
       </div>
     </div>
-    <div className="flex flex-col intro-paragraph inter-semibold items-center sm:items-start mx-[28.5px] sm:mx-[162.76px] mt-[100px]">
-      <p className="paragraph text-[24px] sm:text-[40px] mb-8">
+    <div className="flex flex-col intro-paragraph inter-semibold items-center sm:items-start mx-[1.781rem] sm:mx-[10.173rem] mt-[6.25rem]">
+      <p className="paragraph text-[1.5rem] sm:text-[2.5rem] mb-8">
         Moby™ procedures are designed to work in synergy to restore{" "}
         <span>sexual health </span>
         and boost<span> performance. </span>
@@ -33,7 +33,7 @@ const IntroSection = () => (
         <span>firmer erections </span>
         and <span>increased pleasure</span> from sexual activities.
       </p>
-      <p className="paragraph text-[24px] sm:text-[40px] mb-12">
+      <p className="paragraph text-[1.5rem] sm:text-[2.5rem] mb-12">
         Rediscover the thrill of intimacy
         <span>
           <i> without</i> pills or surgical implants.
@@ -41,8 +41,8 @@ const IntroSection = () => (
       </p>
 
       {/* Button */}
-      <div className="button-container mb-[32px]">
-        <button className="bg-sierra-blue text-white uppercase sm:text-[33.98px] sm:w-[407.04px] sm:h-[73.79px] h-[43.43px] w-[199px] text-[16px] flex text-center items-center justify-center">
+      <div className="button-container mb-[2rem]">
+        <button className="bg-sierra-blue text-white uppercase sm:text-[2.124rem] sm:w-[25.44rem] sm:h-[4.612rem] h-[2.714rem] w-[12.438rem] text-[1rem] flex text-center items-center justify-center">
           Book Now
         </button>
       </div>

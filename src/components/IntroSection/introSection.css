@@ -28,11 +28,11 @@
 }
 
 .button-container button {
-  padding: 16.72px 46.01px 17.6px 46.01px;
-  border-radius: 118.06px;
+  padding: 1.045rem 2.875rem 1.1rem 2.875rem;
+  border-radius: 7.37875rem;
 
   @media (max-width: 800px) {
-    padding: 9.84px 27.08 10.36px 27.08px;
-    border-radius: 69.48px;
+    padding: 0.615rem 1.6925rem 0.6475rem 1.6925rem;
+    border-radius: 4.3425rem;
   }
 }

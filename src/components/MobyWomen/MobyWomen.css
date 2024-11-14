@@ -19,15 +19,15 @@
 }
 
 .women-cta .learn-more-women {
-  width: 463.14px;
-  font-size: 45.31px;
-  padding: 15.86px 33.98px 15.86px 33.98px;
-  border-radius: 157.4px;
+  width: 28.945rem;
+  font-size: 2.832rem;
+  padding: 0.991rem 2.124rem 0.991rem 2.124rem;
+  border-radius: 9.8375rem;
 
   @media (max-width: 640px) {
-    width: 224.44px;
-    font-size: 20px;
-    padding: 10px 30px 10px 30px;
-    border-radius: 39.89px;
+    width: 14.0275rem;
+    font-size: 1.25rem;
+    padding: 0.625rem 1.875rem 0.625rem 1.875rem;
+    border-radius: 2.493125rem;
   }
 }

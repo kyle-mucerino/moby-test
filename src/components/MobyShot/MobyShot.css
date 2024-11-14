@@ -11,10 +11,10 @@
 }
 
 .grid-1 p {
-  top: 2140.83px;
-  left: 68.16px;
-  font-size: 32px;
-  line-height: 43.64px;
+  top: 133.8rem;
+  left: 4.26rem;
+  font-size: 2rem;
+  line-height: 2.73rem;
   font-weight: 600;
     /* Apply gradient background */
   background: #86868B;
@@ -28,18 +28,18 @@
 }
 
 .grid-1 img {
-  width: 124.56px;
-  height: 126.66px;
+  width: 7.785rem;
+  height: 7.91625rem;
 }
 
 .grid-2 p {
-  width: 232.54px;
-  height: 85.13px;
-  top: 2140.83px;
-  left: 68.16px;
-  font-size: 32px;
+  width: 14.534rem;
+  height: 5.320625rem;
+  top: 133.801875rem;
+  left: 4.26rem;
+  font-size: 2rem;
   font-weight: 600;
-  line-height: 43.64px;
+  line-height: 2.7275rem;
     /* Apply gradient background */
     /* Apply gradient background */
   background: #86868B;
@@ -53,18 +53,18 @@
 }
 
 .grid-2 img {
-  width: 124.56px;
-  height: 126.66px;
+  width: 7.785rem;
+  height: 7.91625rem;
 }
 
 .grid-3 p {
-  width: 232.54px;
-  height: 85.13px;
-  top: 2140.83px;
-  left: 68.16px;
+  width: 14.534rem;
+  height: 5.320625rem;
+  top: 133.801875rem;
+  left: 4.26rem;
   font-weight: 600;
-  font-size: 32px;
-  line-height: 43.64px;
+  font-size: 2rem;
+  line-height: 2.7275rem;
     /* Apply gradient background */
     /* Apply gradient background */
   background: #86868B;
@@ -78,18 +78,18 @@
 }
 
 .grid-3 img {
-  width: 124.56px;
-  height: 126.66px;
+  width: 7.785rem;
+  height: 7.91625rem;
 }
 
 .grid-4 p {
-  width: 232.54px;
-  height: 85.13px;
-  top: 2140.83px;
-  left: 68.16px;
-  font-size: 32px;
+  width: 14.534rem;
+  height: 5.320625rem;
+  top: 133.801875rem;
+  left: 4.26rem;
+  font-size: 2rem;
   font-weight: 600;
-  line-height: 43.64px;
+  line-height: 2.7275rem;
     /* Apply gradient background */
     /* Apply gradient background */
   background: #86868B;
@@ -103,13 +103,13 @@
 }
 
 .grid-4 img {
-  width: 124.56px;
-  height: 126.66px;
+  width: 7.785rem;
+  height: 7.91625rem;
 }
 
 .grid-5 p {
-  font-size: 32px;
-  line-height: 43.64px;
+  font-size: 2rem;
+  line-height: 2.7275rem;
   font-weight: 600;
     /* Apply gradient background */
     /* Apply gradient background */
@@ -127,10 +127,10 @@
 }
 
 .grid-6 p {
-  top: 2140.83px;
-  left: 68.16px;
-  font-size: 32px;
-  line-height: 43.64px;
+  top: 133.801875rem;
+  left: 4.26rem;
+  font-size: 2rem;
+  line-height: 2.7275rem;
   font-weight: 600;
     /* Apply gradient background */
     /* Apply gradient background */
@@ -145,14 +145,14 @@
 }
 
 .grid-6 img {
-  width: 124.56px;
-  height: 126.66px;
+  width: 7.785rem;
+  height: 7.91625rem;
 }
 
 /* Mobile Grid Item Styling */
 .mobile-grid-item {
   background-color: #f3f4f6; /* light gray */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
 }
 
 .mobile-grid-item p {
@@ -161,13 +161,13 @@
 
 /* Specific Image Sizing for Mobile */
 .benefit-img {
-  width: 57.09;
-  height: 58.05px;
+  width: 3.568125rem;
+  height: 3.628125rem;
 }
 
 .mobile-grid-item:nth-child(2) .benefit-img {
-  width: 57.09;
-  height: 58.05px;
+  width: 3.568125rem;
+  height: 3.628125rem;
 }
 
 
@@ -181,31 +181,27 @@ span {
 }
 
 .benefits-cta .learn-more {
-  width: 330.75px;
-  font-size: 45.31px;
-  padding: 15.86px 33.98px 15.86px 33.98px;
-  border-radius: 157.4px;
+  width: 20.671875rem;
+  font-size: 2.831875rem;
+  padding: 0.99125rem 2.12375rem 0.99125rem 2.12375rem;
+  border-radius: 9.8375rem;
   @media (max-width: 640px) {
-    width: 146px;
-    font-size: 20px;
-    padding: 7px 15px 7px 15px;
-    border-radius: 69.48px;
+    width: 9.125rem;
+    font-size: 1.25rem;
+    padding: 0.4375rem 0.9375rem 0.4375rem 0.9375rem;
+    border-radius: 4.3425rem;
   }
 }
 
 .benefits-cta .book {
-  width: 208.42px;
-  font-size: 45.31px;
-  padding: 15.86px 33.98px 15.86px 33.98px;
-  border-radius: 157.4px;
+  width: 13.02625rem;
+  font-size: 2.831875rem;
+  padding: 0.99125rem 2.12375rem 0.99125rem 2.12375rem;
+  border-radius: 9.8375rem;
     @media (max-width: 640px) {
-    width: 92px;
-    font-size: 20px;
-    padding: 7px 15px 7px 15px;
-    border-radius: 69.48px;
+    width: 5.75rem;
+    font-size: 1.25rem;
+    padding: 0.4375rem 0.9375rem 0.4375rem 0.9375rem;
+    border-radius: 4.3425rem;
   }
-}
-
-.benefits-cta {
-  margin-top: 92px;
 }

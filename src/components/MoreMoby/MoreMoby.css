@@ -28,28 +28,28 @@ span-2 {
 }
 
 .more-cta .learn-more {
-  width: 330.75px;
-  font-size: 45.31px;
-  padding: 15.86px 33.98px 15.86px 33.98px;
-  border-radius: 157.4px;
+  width: 20.67rem;
+  font-size: 2.83rem;
+  padding: 0.99rem 2.12rem 0.99rem 2.12rem;
+  border-radius: 9.84rem;
   @media (max-width: 640px) {
-    width: 146px;
-    font-size: 20px;
-    padding: 7px 15px 7px 15px;
-    border-radius: 69.48px;
+    width: 9.125rem;
+    font-size: 1.25rem;
+    padding: 0.4375rem 0.9375rem 0.4375rem 0.9375rem;
+    border-radius: 4.3425rem;
   }
 }
 
 .more-cta .book {
-  width: 208.42px;
-  font-size: 45.31px;
-  padding: 15.86px 33.98px 15.86px 33.98px;
-  border-radius: 157.4px;
+  width: 13.02625rem;
+  font-size: 2.831875rem;
+  padding: 0.99125rem 2.12375rem 0.99125rem 2.12375rem;
+  border-radius: 9.8375rem;
     @media (max-width: 640px) {
-    width: 92px;
-    font-size: 20px;
-    padding: 7px 15px 7px 15px;
-    border-radius: 69.48px;
+    width: 5.75rem;
+    font-size: 1.25rem;
+    padding: 0.4375rem 0.9375rem 0.4375rem 0.9375rem;
+    border-radius: 4.3425rem;
   }
 }
 
