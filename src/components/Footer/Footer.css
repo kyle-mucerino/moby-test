@@ -1,0 +1,14 @@
+.footer {
+  width: 1,440px;
+  height: 845.1px;
+  padding: 143.63px 103.12px 143.63px 103.12px;
+  gap: 36.83px;
+  background-color: #272727;
+
+  @media (max-width: 800px) {
+    width: 399px;
+    height: 304px;
+    padding: 43.63px 10.62px 43.63px 20.62px;
+    gap: 36.83px;
+  }
+}

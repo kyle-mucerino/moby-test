@@ -9,6 +9,7 @@ import MobyTales from "./components/MobyTales/MobyTales";
 import MobyWave from "./components/MobyWave/MobyWave";
 import MobyWomen from "./components/MobyWomen/MobyWomen";
 import MoreMoby from "./components/MoreMoby/MoreMoby";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <MobyWomen />
       <MobyTales />
       <MobyOptimize />
+      <Footer />
     </div>
   );
 }
