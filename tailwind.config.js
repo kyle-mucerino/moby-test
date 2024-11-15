@@ -23,8 +23,7 @@ module.exports = {
         subtext1: ["20px", { lineHeight: "30px", fontWeight: "600" }],
         subtext2: ["16px", { lineHeight: "24px", fontWeight: "500" }],
         p1: ["16px", { lineHeight: "24px", fontWeight: "600" }],
-        p2: ["16px", { lineHeight: "24px", fontWeight: "400" }],
-        p3: ["10px", { lineHeight: "14px", fontWeight: "300" }]
+        p2: ["16px", { lineHeight: "24px", fontWeight: "400" }]
       },
       backgroundImage: {
         "text-gradient":
