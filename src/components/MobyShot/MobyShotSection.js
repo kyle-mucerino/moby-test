@@ -10,7 +10,7 @@ import expandingArrows from "../../assets/expanding-arrows.png";
 
 const MobyShotSection = () => (
   <div className="moby-shot flex flex-col items-start sm:mx-[9.778rem] sm:my-[10.25rem] inter-semibold p-4">
-    <div className="frame-114 flex flex-col items-start max-[400px]:p-4">
+    <div className="frame-114 flex flex-col items-start max-[800px]:p-4">
       <div className="header-group text-left mb-4">
         <h2 className="header-gradient inter-semibold sm:mb-[2.625rem] text-[4.5rem] sm:text-[10.25rem] leading-[4.5rem] sm:leading-[10.194rem]">
           Moby Shot™
@@ -30,7 +30,7 @@ const MobyShotSection = () => (
       </div>
     </div>
     {/* Benefits Grid would go here */}
-    <div className="benefits max-[400px]:p-4">
+    <div className="benefits max-[800px]:p-4">
       {/* Benefits Subheader */}
       <h3 className="benefits-subheader text-left text-[1.5rem] sm:text-[3rem] sm:mb-[5.75rem]">
         The growth factors in Hyper PRP™

@@ -1,4 +1,4 @@
-.footer {
+.footer-header {
   width: 90rem;
   height: 52.82rem;
   padding: 8.98rem 6.44rem 8.98rem 6.44rem;
@@ -6,7 +6,7 @@
   background-color: #272727;
 
   @media (max-width: 800px) {
-    width: 24.69rem;
+    width: 100vw;
     height: 19rem;
     padding: 2.73rem 0.66rem 2.73rem 1.29rem;
     gap: 2.3rem;

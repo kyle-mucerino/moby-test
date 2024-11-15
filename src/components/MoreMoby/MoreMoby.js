@@ -33,7 +33,7 @@ const MoreMoby = () => (
     </p>
 
     {/* CTA Buttons Container */}
-    <div className="more-cta flex flex-row mt-[2.25rem] sm:mt-[7.25rem] inter-semibold  max-[400px]:mb-[2.125rem]">
+    <div className="more-cta flex flex-row mt-[2.25rem] sm:mt-[7.25rem] inter-semibold  max-[800px]:mb-[2.125rem]">
       <button className="bg-sierra-blue rounded-full text-white learn-more">
         Learn More
       </button>

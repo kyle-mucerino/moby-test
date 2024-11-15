@@ -35,7 +35,7 @@ const MobyWave = () => (
       </div>
     </div>
     {/* Benefits Grid would go here */}
-    <div className="benefits max-[400px]:p-4 sm:mx-[9.778rem] sm:my-[10.25rem]">
+    <div className="benefits max-[800px]:p-4 sm:mx-[9.778rem] sm:my-[10.25rem]">
       {/* Benefits Subheader */}
       <h3 className="benefits-subheader text-left text-[1.5rem] sm:text-[3rem] sm:mb-[5.75rem] inter-semibold">
         Moby Wave helps you:
@@ -190,13 +190,13 @@ const MobyWave = () => (
         </p>
       </div>
     </div>
-    <div className="wave-grid-bottom sm:mt-[10.25rem] sm:mb-[5.75rem] w-[20.375rem] sm:w-[65.938rem] inter-semibold text-[1.25rem] sm:text-[3rem] text-left p-4 max-[400px]:p-4 sm:mx-[9.778rem] sm:my-[10.25rem]">
+    <div className="wave-grid-bottom sm:mt-[10.25rem] sm:mb-[5.75rem] w-[20.375rem] sm:w-[65.938rem] inter-semibold text-[1.25rem] sm:text-[3rem] text-left p-4 max-[800px]:p-4 sm:mx-[9.778rem] sm:my-[10.25rem]">
       Each Moby Wave™ procedure lasts about
       <span> 10-20 minutes</span> and
       <span> at least six procedures </span>
       are typically recommended.
     </div>
-    <div className="wave-cta flex flex-row max-[400px]:p-4 sm:mx-[9.778rem] sm:my-[10.25rem]">
+    <div className="wave-cta flex flex-row max-[800px]:p-4 sm:mx-[9.778rem] sm:my-[10.25rem]">
       <button className="bg-sierra-blue rounded-full text-white learn-more">
         Learn More
       </button>
